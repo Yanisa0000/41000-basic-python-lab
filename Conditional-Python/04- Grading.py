@@ -25,3 +25,5 @@ if (0 <= Frist <= 30) and (0 <= Mit <= 30) and (0 <= Final <= 40):
      print("Fail")
 else :
     print("input again")
+
+  

@@ -1,6 +1,6 @@
 score = int(input())
 
 if score %2 == 0:
-    print("Pass")
+    print("Even")
 else:
-    print("Fail")
+    print("Odd")
